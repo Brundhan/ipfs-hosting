@@ -15,12 +15,12 @@ services will be used by archivists, hospitals and similar organizations, and ev
 normal users who require immutable decentralized network.
 ## Built With
 
-* IPFS v1.8.0
-* ipfs-api v26.2.1
+* IPFS v.1.8.0
+* ipfs-api v.26.2.1
 * Truffle v.5.3.4 (core: 5.3.4)
-* Ganache v1.2.1
+* Ganache v.1.2.1
 * Solidity v.0.5.16
-* Web3.js v1.3.5
+* Web3.js v.1.3.5
 * NodeJs v.14.16.1
 * Npm v.6.14.12
 * react v.17.0.2
